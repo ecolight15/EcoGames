@@ -31,7 +31,7 @@ public class PlayerConnectionListener extends ListenerFrame {
      */
     @EventHandler(priority=EventPriority.LOWEST)
     public void PlayerQuit(PlayerQuitEvent e) {
-        // TODO: プレイヤー終了時の処理を実装する
+        /// @todo { プレイヤー終了時の処理を実装する }
     }
 
     /**
@@ -40,7 +40,7 @@ public class PlayerConnectionListener extends ListenerFrame {
      */
     @EventHandler(priority = EventPriority.LOWEST)
     public void PlayerKick(PlayerKickEvent e) {
-        // TODO: プレイヤーキック時の処理を実装する
+        /// @todo { プレイヤーキック時の処理を実装する }
     }
 
     /**
@@ -49,7 +49,7 @@ public class PlayerConnectionListener extends ListenerFrame {
      */
     @EventHandler(priority = EventPriority.HIGHEST)
     public void PlayerLogin(PlayerLoginEvent e) {
-        // TODO: プレイヤーログイン時の処理を実装する
+        /// @todo { プレイヤーログイン時の処理を実装する }
     }
 
     /**
@@ -58,7 +58,7 @@ public class PlayerConnectionListener extends ListenerFrame {
      */
     @EventHandler(priority=EventPriority.LOWEST)
     public void PlayerJoin(PlayerJoinEvent e) {
-        // TODO: プレイヤー参加時の処理を実装する
+        /// @todo { プレイヤー参加時の処理を実装する }
     }
 
 }

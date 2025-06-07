@@ -10,7 +10,7 @@ EcoGamesは、Minecraftサーバーでミニゲームを管理・制御するた
 - Java 8以上
 
 ## セットアップ
-1. EcoFramework プラグインをサーバーにインストール
+1. [EcoFramework](https://github.com/ecolight15/EcoFramework) プラグインをサーバーにインストール（EcoFrameworkは必須の依存プラグインです）
 2. EcoGames.jar を plugins フォルダに配置
 3. サーバーを再起動
 

@@ -70,7 +70,7 @@ public class EcoGames extends PluginFrame {
      */
     @Override
     public void initializeTimer() {
-        // TODO: タイマー処理を実装する場合はここに追加
+        /// @todo { タイマー処理を実装する場合はここに追加 }
     }
 
 }

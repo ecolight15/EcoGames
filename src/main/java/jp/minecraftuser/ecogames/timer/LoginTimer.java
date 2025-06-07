@@ -26,7 +26,7 @@ public class LoginTimer extends TimerFrame {
     @Override
     public void run()
     {
-        // TODO: 非同期処理の内容を実装する
+        /// @todo { 非同期処理の内容を実装する }
         // 例: ログインメッセージの表示、初期化処理など
     }
 }
