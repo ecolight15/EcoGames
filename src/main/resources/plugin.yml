@@ -1,0 +1,14 @@
+name: EcoGames
+main: jp.minecraftuser.ecogames.EcoGames
+version: ${project.version}
+depend: [EcoFramework]
+api-version: 1.20
+commands:
+  game:
+    description: EcoGames command.
+    usage: /<command>
+    permission: ecogames
+  game reload:
+    description: EcoGames command.
+    usage: /<command>
+    permission: ecogames.reload
