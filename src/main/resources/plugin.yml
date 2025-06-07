@@ -1,0 +1,17 @@
+name: EcoGames
+version: 1.0.0-SNAPSHOT
+description: Minecraft Java版マルチサーバー向けミニゲーム制御機能を詰め込んだ Bukkit(spigot/paper)プラグイン
+author: ecolight15
+main: com.ecolight15.ecogames.EcoGames
+api-version: 1.20
+
+commands:
+  ecogames:
+    description: EcoGames main command
+    usage: /ecogames
+    aliases: [eg]
+
+permissions:
+  ecogames.admin:
+    description: Access to EcoGames admin commands
+    default: op
